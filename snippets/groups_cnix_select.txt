@@ -12,6 +12,7 @@ Microsoft`select`[]AutoNA 🇺🇲`[]AutoHK 🇭🇰`[]Other Games`[]AutoTW 🇨
 SteamChina`select`[]DIRECT`[]B1gProxy`[]Other Games`[]REJECT`^.*(阿根廷|土耳其).*$
 SteamGlobal`select`[]B1gProxy`[]DIRECT`[]Other Games`[]REJECT`^.*(阿根廷|土耳其).*$
 Blizzard`select`[]Other Games`[]CNIX`[]DIRECT
+Blizzard`select`[]Other Games`[]CNIX`[]DIRECT
 PlayStation`select`[]Other Games`[]CNIX`[]DIRECT
 Riot`select`[]Other Games`[]CNIX`[]DIRECT
 Rockstar`select`[]Other Games`[]CNIX`[]DIRECT
